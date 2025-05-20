@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nishat09/To-do-list-with-react/static/css/main.397d4e6b.chunk.css",
+    "main.js": "/nishat09/To-do-list-with-react/static/js/main.523e6585.chunk.js",
+    "main.js.map": "/nishat09/To-do-list-with-react/static/js/main.523e6585.chunk.js.map",
+    "runtime-main.js": "/nishat09/To-do-list-with-react/static/js/runtime-main.2f915a95.js",
+    "runtime-main.js.map": "/nishat09/To-do-list-with-react/static/js/runtime-main.2f915a95.js.map",
+    "static/js/2.671cf31a.chunk.js": "/nishat09/To-do-list-with-react/static/js/2.671cf31a.chunk.js",
+    "static/js/2.671cf31a.chunk.js.map": "/nishat09/To-do-list-with-react/static/js/2.671cf31a.chunk.js.map",
+    "index.html": "/nishat09/To-do-list-with-react/index.html",
+    "precache-manifest.58299dd61723ffe070b12ed0d181b315.js": "/nishat09/To-do-list-with-react/precache-manifest.58299dd61723ffe070b12ed0d181b315.js",
+    "service-worker.js": "/nishat09/To-do-list-with-react/service-worker.js",
+    "static/css/main.397d4e6b.chunk.css.map": "/nishat09/To-do-list-with-react/static/css/main.397d4e6b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f915a95.js",
+    "static/js/2.671cf31a.chunk.js",
+    "static/css/main.397d4e6b.chunk.css",
+    "static/js/main.523e6585.chunk.js"
+  ]
+}
