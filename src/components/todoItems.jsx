@@ -28,7 +28,14 @@ function TodoItems(props){
     >
         {props.item}
 
-        <button onClick={() => deleteItem(props.deleteItem)}>Delete</button>
+        <button
+        onClick={(e) => {
+          e.stopPropagation();
+          props.deleteItem(props.index);
+        }}
+      >
+        Delete
+      </button>
     </li>
     )
 }

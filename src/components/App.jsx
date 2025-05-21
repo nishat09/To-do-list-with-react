@@ -35,7 +35,12 @@ function App() {
         <ul>
           {items.map((item, index) => {
             return (
-              <TodoItems index={index} item={item} deleteItem={index}/>
+              <TodoItems
+                key={index}
+                index={index}
+                item={item}
+                deleteItem={deleteItem}
+              />
             );
           })}
         </ul>
